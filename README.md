@@ -22,35 +22,35 @@ The goal of this project is to:
 
 ### 🔍 1. Search / Chat Agent
 - A **basic web chat agent** using **Gemini** to get advice from the web.  
-  🔗 [View Code](https://github.com/pamidisushma02/data-insights-agents/blob/main/basic_chat_search_agent.ipynb)
+  🔗 [View Code](https://github.com/pamidisushma02/data-insights-agents/blob/main/basic-chat-search-agent.ipynb)
 - A **multi-agent search system** leveraging **MCP framework** and **Claude model** to collaboratively find answers based on sample data.  
-  🔗 [View Code](https://github.com/pamidisushma02/data-insights-agents/blob/main/MCP.ipynb)
+  🔗 [View Code](https://github.com/pamidisushma02/data-insights-agents/blob/main/multiagent-search-MCP.ipynb)
 
 ---
 
 ### 📊 2. Stock Analysis Agent
 - Multi-agent system for **stock performance analysis**, leveraging the **Crew AI framework** and **GPT model** to generate comprehensive reports from user inputs.  
-  🔗 [View Code](https://github.com/pamidisushma02/data-insights-agents/blob/main/StockAnalysis.ipynb)
+  🔗 [View Code](https://github.com/pamidisushma02/data-insights-agents/blob/main/stock-analysis-crewAI.ipynb)
 
 ---
 
 ### 🧠 3. Resume Screening Agent
 - **Automated resume screening agent** that calculates a fit score using **LangChain** and **Gemini**.  
-  🔗 [View Code](https://github.com/pamidisushma02/data-insights-agents/blob/main/langchain.py)
+  🔗 [View Code](https://github.com/pamidisushma02/data-insights-agents/blob/main/resume-screening-langchain.py)
 - Another version built using **LangSmith** and **Gemini**, offering traceable insights and evaluation metrics.  
-  🔗 [View Code](https://github.com/pamidisushma02/data-insights-agents/blob/main/langsmith.py)
+  🔗 [View Code](https://github.com/pamidisushma02/data-insights-agents/blob/main/resume-screening-langsmith.py)
 
 ---
 
 ### 💬 4. Chat Bot Agent (HR)
 - HR-focused chatbot built with the **RAG framework**, **Hugging Face embeddings**, and **Gemini**, featuring a **Gradio interface** for real-time demo.  
-  🔗 [View Code](https://github.com/pamidisushma02/data-insights-agents/blob/main/hrbot_rag.py)
+  🔗 [View Code](https://github.com/pamidisushma02/data-insights-agents/blob/main/chatbot-RAG.py)
 
 ---
 
 ### 📈 5. Data Analysis Agent
 - A **data analysis agent** leveraging **Phidata** and **Pinecone** for embeddings, with an interactive **Streamlit UI** for visualization and exploration.  
-  🔗 [View Code](https://github.com/pamidisushma02/data-insights-agents/blob/main/app.py)
+  🔗 [View Code](https://github.com/pamidisushma02/data-insights-agents/blob/main/data-analysis-phidata.py)
 
 ---
 
